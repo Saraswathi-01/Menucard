@@ -1,2 +1,2 @@
 # Menucard 
-deployed https://saraswathi-01.github.io/Menucard/
+deployed: https://saraswathi-01.github.io/Menucard/
