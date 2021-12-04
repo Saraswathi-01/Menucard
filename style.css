@@ -1,0 +1,16 @@
+body{
+    background-color:lightblue;
+
+    text-align:center;
+}
+h1{ 
+color:red;
+}
+h2{
+color:blue;
+}
+table{
+ border:"5";
+ align:"center";
+ bgcolor:"pink";
+}
